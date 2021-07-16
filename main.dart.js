@@ -64286,7 +64286,7 @@ Q.Ef.prototype={
 vP:function(a,b){return this.a8t(a,b)},
 a8t:function(a,b){var s=0,r=P.R(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e
 var $async$vP=P.N(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:f="http://localhost:8181/api/v1/admin/admin-login"
+s=p}while(true)switch(s){case 0:f="https://pple-server.herokuapp.com/api/v1/admin/admin-login"
 P.aJ(f)
 m=U.Db(null)
 p=4
@@ -64329,7 +64329,7 @@ return P.W($.rS().m2("token"),$async$q1)
 case 3:g=b
 P.aJ("the token")
 P.aJ(g)
-m="http://localhost:8181/api/v1/admin/admin-all-events-dashboard"
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-all-events-dashboard"
 P.aJ(m)
 l=U.Db(null)
 p=5
@@ -64370,7 +64370,7 @@ return P.W($.rS().m2("token"),$async$pM)
 case 3:g=c
 P.aJ("the token")
 P.aJ(g)
-m="http://localhost:8181/api/v1/admin/all-users?page="+C.f.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/all-users?page="+C.f.j(a)
 P.aJ(m)
 l=U.Db(null)
 p=5
@@ -64411,7 +64411,7 @@ return P.W($.rS().m2("token"),$async$pJ)
 case 3:g=c
 P.aJ("the token")
 P.aJ(g)
-m="http://localhost:8181/api/v1/admin/admin-all-events?page="+C.f.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-all-events?page="+C.f.j(a)
 P.aJ(m)
 l=U.Db(null)
 p=5
@@ -64451,7 +64451,7 @@ return P.W($.rS().m2("token"),$async$q0)
 case 3:g=b
 P.aJ("the token")
 P.aJ(g)
-m="http://localhost:8181/api/v1/admin/admin-dashboard-data"
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-dashboard-data"
 P.aJ(m)
 l=U.Db(null)
 p=5

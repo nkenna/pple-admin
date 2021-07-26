@@ -65330,7 +65330,7 @@ Q.Ey.prototype={
 w5:function(a,b){return this.a98(a,b)},
 a98:function(a,b){var s=0,r=P.N(t.z),q,p=2,o,n=[],m,l,k,j,i,h,g,f,e
 var $async$w5=P.J(function(c,d){if(c===1){o=d
-s=p}while(true)switch(s){case 0:f="http://localhost:8181/api/v1/admin/admin-login"
+s=p}while(true)switch(s){case 0:f="https://pple-server.herokuapp.com/api/v1/admin/admin-login"
 P.Y(f)
 m=U.ho(null)
 p=4
@@ -65373,7 +65373,7 @@ return P.Q($.fE().f2("token"),$async$qd)
 case 3:g=b
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/admin-all-events-dashboard"
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-all-events-dashboard"
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65414,7 +65414,7 @@ return P.Q($.fE().f2("token"),$async$pV)
 case 3:g=c
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/all-users?page="+C.h.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/all-users?page="+C.h.j(a)
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65455,7 +65455,7 @@ return P.Q($.fE().f2("token"),$async$pR)
 case 3:g=c
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/all-banks?page="+C.h.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/all-banks?page="+C.h.j(a)
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65496,7 +65496,7 @@ return P.Q($.fE().f2("token"),$async$pY)
 case 3:g=c
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/all-wallets?page="+C.h.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/all-wallets?page="+C.h.j(a)
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65537,7 +65537,7 @@ return P.Q($.fE().f2("token"),$async$pX)
 case 3:g=c
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/all-wallet-trans?page="+C.h.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/all-wallet-trans?page="+C.h.j(a)
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65578,7 +65578,7 @@ return P.Q($.fE().f2("token"),$async$oD)
 case 3:e=c
 P.Y("the token")
 P.Y(e)
-m="http://localhost:8181/api/v1/admin/admin-search-wallet-trans"
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-search-wallet-trans"
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65621,7 +65621,7 @@ return P.Q($.fE().f2("token"),$async$pQ)
 case 3:g=b
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/all-admins"
+m="https://pple-server.herokuapp.com/api/v1/admin/all-admins"
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65662,7 +65662,7 @@ return P.Q($.fE().f2("token"),$async$pS)
 case 3:g=c
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/admin-all-events?page="+C.h.j(a)
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-all-events?page="+C.h.j(a)
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65702,7 +65702,7 @@ return P.Q($.fE().f2("token"),$async$qc)
 case 3:g=b
 P.Y("the token")
 P.Y(g)
-m="http://localhost:8181/api/v1/admin/admin-dashboard-data"
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-dashboard-data"
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65743,7 +65743,7 @@ return P.Q($.fE().f2("token"),$async$oC)
 case 3:e=c
 P.Y("the token")
 P.Y(e)
-m="http://localhost:8181/api/v1/admin/admin-search-users"
+m="https://pple-server.herokuapp.com/api/v1/admin/admin-search-users"
 P.Y(m)
 l=U.ho(null)
 p=5
@@ -65787,7 +65787,7 @@ return P.Q($.fE().f2("token"),$async$qJ)
 case 3:e=a0
 P.Y("the token")
 P.Y(e)
-m="http://localhost:8181/api/v1/admin/flag-user"
+m="https://pple-server.herokuapp.com/api/v1/admin/flag-user"
 P.Y(m)
 l=U.ho(null)
 p=5
